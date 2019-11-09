@@ -1,0 +1,13 @@
+
+.App-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  max-height: 6vh;
+}
